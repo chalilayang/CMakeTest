@@ -1,0 +1,6 @@
+/Users/yangyong/AndroidStudioProjects/CMakeTest/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/native-lib.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/app/.externalNativeBuild/cmake/debug/x86_64/src/main/cpp/one/CMakeFiles/edit_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/app/.externalNativeBuild/cmake/debug/x86_64/src/main/cpp/one/CMakeFiles/rebuild_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/app/.externalNativeBuild/cmake/debug/x86_64/src/main/cpp/one/CMakeFiles/one.dir

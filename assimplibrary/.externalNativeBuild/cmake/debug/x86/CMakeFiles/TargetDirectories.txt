@@ -1,0 +1,4 @@
+/Users/yangyong/AndroidStudioProjects/CMakeTest/assimplibrary/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/assimplibrary/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/assimplibrary/.externalNativeBuild/cmake/debug/x86/CMakeFiles/matrix_ap.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/assimplibrary/.externalNativeBuild/cmake/debug/x86/CMakeFiles/contrib.dir

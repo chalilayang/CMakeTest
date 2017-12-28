@@ -1,0 +1,5 @@
+# ninja log v5
+0	620	0	CMakeFiles/opencv3.3.dir/native/native-lib.cpp.o	1425be9d605b7c75
+621	773	0	../../../../jniLibs/armeabi/libopencv3.3.so	d8eabc423d7c0eb0
+1	825	0	CMakeFiles/opencv3.3.dir/native/native-lib.cpp.o	1425be9d605b7c75
+826	1005	0	../../../../jniLibs/armeabi/libopencv3.3.so	d8eabc423d7c0eb0

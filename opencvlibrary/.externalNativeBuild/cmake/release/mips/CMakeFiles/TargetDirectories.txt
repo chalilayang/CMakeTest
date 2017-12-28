@@ -1,0 +1,3 @@
+/Users/yangyong/AndroidStudioProjects/CMakeTest/opencvlibrary/.externalNativeBuild/cmake/release/mips/CMakeFiles/edit_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/opencvlibrary/.externalNativeBuild/cmake/release/mips/CMakeFiles/rebuild_cache.dir
+/Users/yangyong/AndroidStudioProjects/CMakeTest/opencvlibrary/.externalNativeBuild/cmake/release/mips/CMakeFiles/opencv3.3.dir
